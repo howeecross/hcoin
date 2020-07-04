@@ -8,4 +8,28 @@
                 <!-- You can hook the "home button" to some JavaScript events or just remove it -->
             </div>
         </div>
-    </div>
+    </div><!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>Index</title>
+</head>
+<body>
+ <div>
+ 
+ </div>
+</body>
+</html><!DOCTYPE html>
+<html>
+<style>
+/* Full-width input fields */
+input[type=text],
+input[type=password] {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #bbb,gbg,bgb;
+box-sizing: border-box;
+}
+/* Set a style for all buttons */
